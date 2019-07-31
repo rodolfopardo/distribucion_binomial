@@ -2,7 +2,7 @@
 
 ## Descripción: 
 
- Estamos en la fábrica de celulares "RIphone" que necesita realizar inspección general de su producción.
+ Estamos en una fábrica de celulares "RIphone" que necesita realizar inspección general de su producción.
 
 . Seleccionan 10 celulares de una muestra gigante y lo inspeccionan.
 
